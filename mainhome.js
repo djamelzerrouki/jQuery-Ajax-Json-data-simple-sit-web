@@ -1,8 +1,8 @@
 $(document).ready(function () {
 $("#btn").click(function () {
      $.ajax({
-         //         url:"https://jsonplaceholder.typicode.com/posts",
-         url:"getjson.php",
+                  url:"https://jsonplaceholder.typicode.com/posts",
+         //url:"getjson.php",
          method:"get",
        //data:{name:inputName},
 success:function (data) {
