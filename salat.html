@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>my page </title>
+
+    <script type="text/javascript"  src="jquery-3.3.1.min.js"> </script>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+</head>
+<body>
+ <div class="row">
+     <div class="border border-secondary col-lg-6">
+         <input type="date" id="inputdate" class="input" name="inputdate"/>
+         <button id="btn" class="btn btn-primary">Get time of salat </button>
+    <div id="results"></div>
+     </div>
+
+     <div id="single" class="border border primary col-lg-6">
+         <table id="table" class="table table-bordered">
+             <th>jour</th>
+             <th>fajr</th>
+              <th>dohr</th>
+             <th>alAsr</th>
+             <th>AlDohr</th>
+             <th>AlIcha</th>
+             <tr>
+             <td id="jour"> </td>
+             <td id="h1"> </td>
+             <td id="h2"> </td>
+             <td id="h3"> </td>
+             <td id="h4"> </td>
+             <td id="h5"> </td>
+             </tr>
+         </table>
+      </div>
+
+ </div>
+
+
+<script src="mainsalat.js" defer> </script>
+
+</body>
+</html>

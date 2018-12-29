@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8405eb2-e5a1-4711-ae38-55884a507843" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mainhome.js" beforeDir="false" afterPath="$PROJECT_DIR$/mainhome.js" afterDir="false" />
-    </list>
+    <list default="true" id="a8405eb2-e5a1-4711-ae38-55884a507843" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -54,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainhome.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="170">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -186,16 +184,15 @@
       <workItem from="1545931663510" duration="1376000" />
       <workItem from="1545933062387" duration="2133000" />
       <workItem from="1545935375566" duration="2326000" />
-      <workItem from="1545940776774" duration="11658000" />
+      <workItem from="1545940776774" duration="12267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17493000" />
+    <option name="totallyTimeSpent" value="18102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2956989" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -280,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mainhome.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
