@@ -1,7 +1,7 @@
 $(document).ready(function () {
 $("#btn").click(function () {
      $.ajax({
-         url:"http://localhost/projects/jQuryProject/getjson.php",
+         url:"http://localhost/projects/jQuryProject/getjsonSalat.php",
           method:"get",
  success:function (data) {
   var array =$(data);
